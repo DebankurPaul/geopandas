@@ -378,3 +378,5 @@ communication is essential for an open source community to thrive.
 
 This policy is adapted in part from the Apache Arrow AI-generated code Contribution
 guidelines.
+
+"Note: The CI failure in test_read_parquet_from_https is an external network/rate-limiting issue on GitHub Actions runners and is unrelated to these plotting changes."
